@@ -64,6 +64,7 @@ Join our growing community!
 - [VkusVill](https://www.vkusvill.ru) [@ETselikov]
 - [Zalando](https://www.zalando.com) [@dmigo]
 - [Zalora](https://www.zalora.com) [@ksaagariconic]
+- [Future Group](https://www.futuregroup.in/)
 
 ### Enterprise Technology
 - [A3Data](https://a3data.com.br) [@neylsoncrepalde]
